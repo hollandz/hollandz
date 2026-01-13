@@ -1,6 +1,6 @@
 ### Hello, world 👋
 
-- 🔭 I’m currently working on Remix.run
+- 🔭 Helping CleanChoice build some cool stuff! Fighting climate change, one line of code at a time.
 - 📫 How to reach me: zae+git@cleanchoice.com
 
 [![Hollandz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hollandz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
